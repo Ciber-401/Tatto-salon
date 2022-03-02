@@ -1,0 +1,4 @@
+venv
+ .DS_Store
+ startTatoDB.session.sql
+ .vscode
